@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on Automata</title>
-    <link>https://automata.fr/tags/automation/</link>
+    <link>https://blog.automata.fr/tags/automation/</link>
     <description>Recent content in Automation on Automata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://automata.fr/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.automata.fr/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Putain, qui a encore pété la photocopieuse à YAML ?!?</title>
-      <link>https://automata.fr/post/photocopieuse_yaml/</link>
+      <link>https://blog.automata.fr/post/photocopieuse_yaml/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://automata.fr/post/photocopieuse_yaml/</guid>
+      <guid>https://blog.automata.fr/post/photocopieuse_yaml/</guid>
       <description></description>
     </item>
     

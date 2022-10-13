@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Automata</title>
-    <link>https://automata.fr/post/</link>
+    <link>https://blog.automata.fr/post/</link>
     <description>Recent content in Posts on Automata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 04 Oct 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://automata.fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://blog.automata.fr/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>J&#39;auraiis vouluuuuu être un artiiiiiste</title>
-      <link>https://automata.fr/post/artiste_ou_pas/</link>
+      <link>https://blog.automata.fr/post/artiste_ou_pas/</link>
       <pubDate>Tue, 04 Oct 2022 10:00:00 +0000</pubDate>
       
-      <guid>https://automata.fr/post/artiste_ou_pas/</guid>
+      <guid>https://blog.automata.fr/post/artiste_ou_pas/</guid>
       <description>Dans les villes de l&amp;rsquo;an 2000 Parfois la réalité rattrape la science fiction et &amp;hellip;
 L&amp;rsquo;art généré par intelligence artificielle Ipsom lorem&amp;hellip;
 Liens Stable Diffusion vs DALL-E 2 SD Prompt samples SD Prompt helper SD Prompt guide 4.2 GB - How to draw anything Stable Diffusion is a real big deal Exploring 12M of images used to train </description>
@@ -20,10 +20,10 @@ Liens Stable Diffusion vs DALL-E 2 SD Prompt samples SD Prompt helper SD Prompt 
     
     <item>
       <title>Putain, qui a encore pété la photocopieuse à YAML ?!?</title>
-      <link>https://automata.fr/post/photocopieuse_yaml/</link>
+      <link>https://blog.automata.fr/post/photocopieuse_yaml/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://automata.fr/post/photocopieuse_yaml/</guid>
+      <guid>https://blog.automata.fr/post/photocopieuse_yaml/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://automata.fr/tags/ai/</loc>
+    <loc>https://blog.automata.fr/tags/ai/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/tags/art/</loc>
+    <loc>https://blog.automata.fr/tags/art/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/categories/art/</loc>
+    <loc>https://blog.automata.fr/categories/art/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/</loc>
+    <loc>https://blog.automata.fr/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/categories/</loc>
+    <loc>https://blog.automata.fr/categories/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/post/artiste_ou_pas/</loc>
+    <loc>https://blog.automata.fr/post/artiste_ou_pas/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/post/</loc>
+    <loc>https://blog.automata.fr/post/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/tags/</loc>
+    <loc>https://blog.automata.fr/tags/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/categories/tech/</loc>
+    <loc>https://blog.automata.fr/categories/tech/</loc>
     <lastmod>2022-10-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/tags/ansible/</loc>
+    <loc>https://blog.automata.fr/tags/ansible/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/tags/automation/</loc>
+    <loc>https://blog.automata.fr/tags/automation/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/post/photocopieuse_yaml/</loc>
+    <loc>https://blog.automata.fr/post/photocopieuse_yaml/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/tags/yaml/</loc>
+    <loc>https://blog.automata.fr/tags/yaml/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://automata.fr/about/</loc>
+    <loc>https://blog.automata.fr/about/</loc>
   </url><url>
-    <loc>https://automata.fr/notes/</loc>
+    <loc>https://blog.automata.fr/notes/</loc>
   </url><url>
-    <loc>https://automata.fr/search/placeholder/</loc>
+    <loc>https://blog.automata.fr/search/placeholder/</loc>
   </url><url>
-    <loc>https://automata.fr/archive/</loc>
+    <loc>https://blog.automata.fr/archive/</loc>
   </url><url>
-    <loc>https://automata.fr/search/</loc>
+    <loc>https://blog.automata.fr/search/</loc>
   </url>
 </urlset>

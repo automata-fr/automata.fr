@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Automata</title>
-    <link>https://automata.fr/tags/ai/</link>
+    <link>https://blog.automata.fr/tags/ai/</link>
     <description>Recent content in AI on Automata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 04 Oct 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://automata.fr/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://blog.automata.fr/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>J&#39;auraiis vouluuuuu être un artiiiiiste</title>
-      <link>https://automata.fr/post/artiste_ou_pas/</link>
+      <link>https://blog.automata.fr/post/artiste_ou_pas/</link>
       <pubDate>Tue, 04 Oct 2022 10:00:00 +0000</pubDate>
       
-      <guid>https://automata.fr/post/artiste_ou_pas/</guid>
+      <guid>https://blog.automata.fr/post/artiste_ou_pas/</guid>
       <description>Dans les villes de l&amp;rsquo;an 2000 Parfois la réalité rattrape la science fiction et &amp;hellip;
 L&amp;rsquo;art généré par intelligence artificielle Ipsom lorem&amp;hellip;
 Liens Stable Diffusion vs DALL-E 2 SD Prompt samples SD Prompt helper SD Prompt guide 4.2 GB - How to draw anything Stable Diffusion is a real big deal Exploring 12M of images used to train </description>
