@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Automata</title>
+    <link>https://automata.fr/tags/</link>
+    <description>Recent content in Tags on Automata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 04 Oct 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://automata.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://automata.fr/tags/ai/</link>
+      <pubDate>Tue, 04 Oct 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://automata.fr/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://automata.fr/tags/art/</link>
+      <pubDate>Tue, 04 Oct 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://automata.fr/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://automata.fr/tags/ansible/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://automata.fr/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://automata.fr/tags/automation/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://automata.fr/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaml</title>
+      <link>https://automata.fr/tags/yaml/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://automata.fr/tags/yaml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

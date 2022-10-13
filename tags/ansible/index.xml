@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansible on Automata</title>
+    <link>https://automata.fr/tags/ansible/</link>
+    <description>Recent content in Ansible on Automata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://automata.fr/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Putain, qui a encore pété la photocopieuse à YAML ?!?</title>
+      <link>https://automata.fr/post/photocopieuse_yaml/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://automata.fr/post/photocopieuse_yaml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
